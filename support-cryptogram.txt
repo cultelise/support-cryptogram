@@ -1,0 +1,17 @@
+QUEUE | 
+PAIR-PROGRAMMING | 
+ADVISOR MEETINGS | 
+MESSAGE INSTRUCTOR OR MENTOR|
+
+
+W = V
+E = D
+K = C
+U = T
+B = S
+D = R
+O = Z
+P = I
+J = U
+F = G
+Z = A
